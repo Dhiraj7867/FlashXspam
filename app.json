@@ -7,7 +7,6 @@
         "telegram-bot",
         "PythonX",
         "SpamBots"
-        "flashspambot"
     ],
     "repository": "https://github.com/dhiraj7867/FlashXspam",
     "env": {
