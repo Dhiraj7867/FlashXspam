@@ -79,6 +79,9 @@
 
 ## ʟɪᴄᴇɴᴄᴇ 
 
+<b>SPECIAL CRDIT TO<b>
+<b>STORM<b>
+
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
 <b> ᴋᴀɴɢ ɪᴛ ᴡɪᴛʜ ᴘʀᴏᴘᴇʀ ᴄʀᴇᴅɪᴛꜱ ᴇʟꜱᴇ ʏᴏᴜʀ ᴍᴜᴍ ᴍɪɴᴇ<img src="https://github.com/VARC9210/STORM-USERBOT/blob/main/res/7VB.gif" width="50px"></b><br>
