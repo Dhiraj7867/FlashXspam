@@ -1,0 +1,6 @@
+telethon
+cryptg
+heroku3
+flask
+flask_restful
+gunicorn
