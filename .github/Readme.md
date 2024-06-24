@@ -1,16 +1,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">──「 𝐒 𝐓 𝐎 𝐑 𝐌 🥀」──</p> 
+<p align="center">──「 𝐅 𝐋 𝐀 𝐒 𝐇 ☠️」──</p> 
     
 <h2 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓<h2>
 
 <p align="center">
-  <img src="./Storm.jpeg" alt="Logo">
+  <img src="https://telegra.ph/file/434e18f50599e0b28480c.jpg" alt="Logo">
 </p>
 
 <p align="center">
-    <a href="https://github.com/VARC9210/STORM/commits/STORM"><img src="https://img.shields.io/github/last-commit/VARC9210/STORM?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
-    <a href="https://travis-ci.com/VARC9210/STORM.svg?branch=STORM" /></a>
+    <a href="https://github.com/dhiraj7867/flashXspam/commits/FLASH"><img src="https://img.shields.io/github/last-commit/DHIRAJ7867/FLASHXSPAM?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+    <a href="https://travis-ci.com/DHIRAJ7867/flashXspam.svg?branch=Flash" /></a>
     <a href="https://github.com/VARC9210/STORM/issues"> <img src="https://img.shields.io/github/issues/VARC9210/STORM?color=blue&logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/VARC9210/STORM"> <img src="https://img.shields.io/github/repo-size/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/VARC9210/STORM/network/members"> <img src="https://img.shields.io/github/forks/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
