@@ -51,17 +51,17 @@ START_OP = [
 @X10.on(events.NewMessage(pattern="/start"))
 async def start(event):
     if event.is_private:
-        KEX = await event.client.get_me()
-        bot_name = KEX.first_name
-        bot_id = KEX.id
+        DM = await event.client.get_me()
+        bot_name = DM.first_name
+        bot_id = DM.id
         TEXT = f"**ʜᴇʏ [{event.sender.first_name}]\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n➖➖➖➖➖➖➖➖➖➖➖\n"
-        TEXT += f"» **ꜱᴇɴꜱᴇɪ : [⏤͟͞〲ᴅʜɪʀᴀᴊ](https://t.me/kexx_xd)**\n"
+        TEXT += f"» **ꜱᴇɴꜱᴇɪ : [⏤͟͞〲DHIRAJ](https://t.me/II_DHIRAJ_II)**\n"
         TEXT += f"» **ғʟᴀsʜ :** `M3.0` \n"
         TEXT += f"» **ᴘʏᴛʜᴏɴ :** `3.11` \n"
         TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ :** `{__version__}`\n➖➖➖➖➖➖➖➖➖➖➖"        
         await event.client.send_file(
                     event.chat_id,  
-                    "https://graph.org/file/7f4da811955cc9c3c763f.jpg",
+                    "https://telegra.ph/file/434e18f50599e0b28480c.jpg",
                     caption=TEXT, 
                     buttons=START_OP
                 )
