@@ -13,7 +13,7 @@
     <a href="https://travis-ci.com/DHIRAJ7867/flashXspam.svg?branch=Flash" /></a>
     <a href="https://github.com/dhiraj7867/flashXspam/issues"> <img src="https://img.shields.io/github/issues/dhiraj7867/FlashXspam?color=blue&logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/dhiraj7867/FlashXspam"> <img src="https://img.shields.io/github/repo-size/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
-    <a href="https://github.com/dhiraj7867/flashXspam/network/members"> <img src="https://img.shields.io/github/forks/VARC9210/STORM?logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/dhiraj7867/flashXspam/network/members"> <img src="https://img.shields.io/github/forks/dhiraj7867/flashXspam?logo=github&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Pyrogram/"><img src="https://img.shields.io/pypi/v/Pyrogram?color=important&label=Pyrogram&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.10.2-white?style=for-the-badge&logo=appveyor"/>
     <a href="https://t.me/FLASH_TECHH"><img src="https://img.shields.io/badge/Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
