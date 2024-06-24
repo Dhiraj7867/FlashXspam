@@ -1,5 +1,5 @@
 build:
   docker:
-    STORM: Dockerfile
+    FLASH: Dockerfile
 run:
-  STORM: python3 -m main.py
+  FLASH: python3 -m main.py
