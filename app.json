@@ -1,14 +1,15 @@
 {
-    "name": "ꜱ ᴛ ᴏ ʀ ᴍ",
-    "logo": "https://graph.org/file/dc415607712c2ce5b37be.jpg",
+    "name": "ғ ʟ ᴀ s ʜ",
+    "logo": "https://telegra.ph/file/434e18f50599e0b28480c.jpg",
     "keywords": [
         "telegram",
         "telethon",
         "telegram-bot",
         "PythonX",
         "SpamBots"
+        "flashspambot"
     ],
-    "repository": "https://github.com/VARC9210/STORM",
+    "repository": "https://github.com/dhiraj7867/FlashXspam",
     "env": {
       "BOT_TOKEN": {
         "description": "ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ ɢᴇᴛ ᴛʜɪꜱ ᴠᴀʟᴜᴇ ꜰʀᴏᴍ ʙᴏᴛꜰᴀᴛʜᴇʀ",
