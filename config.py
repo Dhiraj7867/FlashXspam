@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 ᴋᴜɴᴀʟ [AFK]
+#Copyright (c) 2024 ᴅʜɪʀᴀᴊ [AFK]
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -27,8 +27,8 @@ from STORM.data import DEV
 
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s', level=logging.WARNING)
 
-API_ID = 18136872
-API_HASH = "312d861b78efcd1b02183b2ab52a83a4"
+API_ID = 15544835
+API_HASH = "9c6845b5b911bd3950db540dab4ff1c7"
 CMD_HNDLR = getenv("CMD_HNDLR", default="!")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
@@ -44,10 +44,10 @@ BOT_TOKEN8 = getenv("BOT_TOKEN8", default=None)
 BOT_TOKEN9 = getenv("BOT_TOKEN9", default=None)
 BOT_TOKEN10 = getenv("BOT_TOKEN10", default=None)
 
-SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="6257927828").split()))
+SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="6565526001").split()))
 for x in DEV:
     SUDO_USERS.append(x)
-OWNER_ID = int(getenv("OWNER_ID", default="6257927828"))
+OWNER_ID = int(getenv("OWNER_ID", default="6565526001"))
 SUDO_USERS.append(OWNER_ID)
 
 
