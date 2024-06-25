@@ -453,9 +453,9 @@ PORMS = [
     "https://telegra.ph/file/af9e3f98da0bd937adf6e.jpg",
 ]
 
-DEV = [6257927828]
+DEV = [6565526001]
 
-GROUP = [-1002064111110]
+GROUP = [-1002198663921]
 
 LOVERAID = [
 "ᴛᴇʀᴇ ɴᴀᴀʟᴏ ᴄʜᴀʟʟɪʏᴇ ʜᴀꜱᴇᴇɴ ᴋᴏʏɪ ɴᴀ 😁😁",
