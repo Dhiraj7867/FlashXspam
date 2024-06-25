@@ -34,8 +34,8 @@ from telethon.tl.custom import button
 from os import execl, getenv
 from telethon.tl.functions.channels import LeaveChannelRequest
 
-pongg = "ꜱ ᴛ ᴏ ʀ ᴍ"
-PIC = "https://graph.org/file/5d4a2dbf4f196fcdfe4d2.mp4"
+pongg = "ғ ʟ ᴀ s ʜ"
+PIC = "https://telegra.ph/file/434e18f50599e0b28480c.jpg"
 Alivemsg = "ғʟᴀsʜ x ꜱᴘᴀᴍ ʜᴇʀᴇ"
 
 TEXT = f"‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌ㅤㅤㅤ • ғʟᴀsʜ ɪꜱ ᴀʟɪᴠᴇ • ㅤㅤㅤ\n"
