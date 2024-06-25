@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 DHIRAJ [AFK]
+#Copyright (c) 2024 ᴅʜɪʀᴀᴊ [AFK]
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -30,10 +30,10 @@ HELP_STRING = f"""
 
 **[ꜱᴛᴏʀᴍ ꜱᴘᴀᴍ ʙᴏᴛ](https://t.me/II_DHIRAJ_II) ʜᴇʟᴘ ᴍᴇɴᴜ** 🥀
 
-**ʜᴇʟᴘ ᴍᴇɴᴜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ꜱᴛᴏʀᴍ](https://github.com/dhiraj7867/FlashXspam)** ✨
+**ʜᴇʟᴘ ᴍᴇɴᴜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ғʟᴀsʜ](https://github.com/dhiraj7867/FlashXspam)** ✨
 
-**ᴄʜᴀɴɴᴇʟ: [ꜱᴛᴏʀᴍ ᴛᴇᴄʜ 🇮🇳](https://t.me/flash_TECHH)**
-**ꜱᴜᴘᴘᴏʀᴛ: [ꜱᴛᴏʀᴍ ᴄʜᴀᴛᴢ 🇮🇳](https://t.me/flash_CHATZ)**
+**ᴄʜᴀɴɴᴇʟ: [ғʟᴀsʜ ᴛᴇᴄʜ 🇮🇳](https://t.me/flash_TECHH)**
+**ꜱᴜᴘᴘᴏʀᴛ: [ғʟᴀsʜ ᴄʜᴀᴛᴢ 🇮🇳](https://t.me/flash_CHATZ)**
 """
 HELP_BUTTON = [
     [
