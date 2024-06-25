@@ -190,10 +190,10 @@ async def leave(e):
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        KEX = await e.reply(f"🌩")
+        KEX = await e.reply(f"⚡")
         end = datetime.now()
         mp = (end - start).microseconds / 10000
-        await DM.edit(f"ꜱ ᴛ ᴏ ʀ ᴍ 🥀\nᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ғʟᴀsʜ ⚡\n» `{mp} ᴍꜱ`") 
+        await DM.edit(f" ғ ʟ ᴀ s ʜ  🥀\nᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ғʟᴀsʜ ⚡\n» `{mp} ᴍꜱ`") 
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%ssudo(?: |$)(.*)" % hl))
 @X2.on(events.NewMessage(incoming=True, pattern=r"\%ssudo(?: |$)(.*)" % hl))
