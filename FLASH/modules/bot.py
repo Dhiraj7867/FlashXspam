@@ -65,8 +65,8 @@ async def alive(event):
                                   caption=TEXT,
                                   buttons=[
         [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/storm_techh"),
-        Button.url("• ꜱᴜᴘᴘᴏʀᴛ •", "https://t.me/storm_chatz")
+        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/flash_techh"),
+        Button.url("• ꜱᴜᴘᴘᴏʀᴛ •", "https://t.me/flash_chatz")
         ],
         ]
         )
@@ -131,7 +131,7 @@ async def logs(KEX):
         fetch = await KEX.reply(f"ꜰᴇᴛᴄʜʜɪɴɢ ʟᴏɢꜱ ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ 📄...")
     
         with open("Logs.txt", "w") as logfile:
-            logfile.write("ꜱᴛᴏʀᴍ 𝚇 🍷 [ Bot Logs ]\n\n" + logs)
+            logfile.write("ғʟᴀsʜ 𝚇 🍷 [ Bot Logs ]\n\n" + logs)
 
         end = datetime.now()
         ms = (end-start).seconds
