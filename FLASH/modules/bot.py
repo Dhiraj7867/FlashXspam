@@ -138,7 +138,7 @@ async def logs(KEX):
         await asyncio.sleep(1)
 
         try:
-            await X1.send_file(DM.chat_id, "ʟᴏɢꜱ.ᴛxᴛ", caption=f"⚡ **ғʟᴀsʜ ʙᴏᴛ ʟᴏɢꜱ 🍷** ⚡\n  » **ᴛɪᴍᴇ ᴛᴀᴋᴇɴ ⌛:** `{ms} ꜱᴇᴄᴏɴᴅꜱ`")
+            await X1.send_file(KEX.chat_id, "ʟᴏɢꜱ.ᴛxᴛ", caption=f"⚡ **ғʟᴀsʜ ʙᴏᴛ ʟᴏɢꜱ 🍷** ⚡\n  » **ᴛɪᴍᴇ ᴛᴀᴋᴇɴ ⌛:** `{ms} ꜱᴇᴄᴏɴᴅꜱ`")
             await fetch.delete()
         except Exception as e:
             await fetch.edit(f"**ᴇʀᴏᴏʀ:** {str(e)}")
@@ -193,7 +193,7 @@ async def ping(e):
         KEX = await e.reply(f"⚡")
         end = datetime.now()
         mp = (end - start).microseconds / 10000
-        await DM.edit(f" ғ ʟ ᴀ s ʜ  🥀\nᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ғʟᴀsʜ ⚡\n» `{mp} ᴍꜱ`") 
+        await KEX.edit(f" ғ ʟ ᴀ s ʜ  🥀\nᴛʜᴇ ᴄᴀʟᴍ ʙᴇꜰᴏʀᴇ ᴛʜᴇ ғʟᴀsʜ ⚡\n» `{mp} ᴍꜱ`") 
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%ssudo(?: |$)(.*)" % hl))
 @X2.on(events.NewMessage(incoming=True, pattern=r"\%ssudo(?: |$)(.*)" % hl))
