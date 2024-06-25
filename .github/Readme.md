@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">──「 𝐅 𝐋 𝐀 𝐒 𝐇 ☠️」──</p> 
-    
+<p>𝐂𝐑𝐄𝐃𝐈𝐓:-𝐒𝐓𝐎𝐑𝐌</p>    
 <h2 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓<h2>
 
 <p align="center">
