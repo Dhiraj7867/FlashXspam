@@ -1,1 +1,1 @@
-FLASH: python -m main.py
+STORM: python -m main.py
