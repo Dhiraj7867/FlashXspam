@@ -21,7 +21,7 @@
 #SOFTWARE.
 
 import asyncio
-from random import choice
+import random
 from telethon import events
 from telethon import events, functions, types
 from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, SUDO_USERS, OWNER_ID, CMD_HNDLR as hl
@@ -49,14 +49,10 @@ async def wspam(event):
                 counter = int(event.text.split(" ", 2)[1])
                 wallpaper = choice(wallpapers)
                 for _ in range(counter):
-                    alt = await event.client.send_file(event.chat_id, porrn)
+                    alt = await event.client.send_file(event.chat_id, wallpaper)
                     await gifspam(event, alt) 
                     await asyncio.sleep(0.2)
             except (IndexError, ValueError):
                 await event.reply(f"{hl}ᴘꜱᴘᴀᴍ <ᴄᴏᴜɴᴛ>")
             except Exception as e:
                 print(e)
-
-
-    wallpaper_url = random.choice(walldata)
-    await message.reply_photo(wallpaper_url)￼Enter
