@@ -31,6 +31,25 @@ from FLASH.data import DEV
 @Client.on_message(
     filters.command(["wallpaper"], ".") & (filters.me | filters.user(SUDO_USERS))
 )
+async def pspam(event):
+    if event.sender_id in SUDO_USERS:
+        if event.chat_id in GROUP:
+            await event.reply("» ꜱʀʏ, ᴛʜɪꜱ ɢʀᴏᴜᴘ ɪꜱ ᴘʀᴏᴛᴇᴄᴛᴇᴅ ʙʏ ғʟᴀsʜ 🛡️")
+        else:
+            try:
+                counter = int(event.text.split(" ", 2)[1])
+                porrn = choice(PORMS)
+                for _ in range(counter):
+                    alt = await event.client.send_file(event.chat_id, porrn)
+                    await gifspam(event, alt) 
+                    await asyncio.sleep(0.2)
+            except (IndexError, ValueError):
+                await event.reply(f"{hl}ᴘꜱᴘᴀᴍ <ᴄᴏᴜɴᴛ>")
+            except Exception as e:
+                print(e)
+
+
+
 async def wallpaper(client, message):
     args = message.text.split(" ")[1:]
     walldata = [
