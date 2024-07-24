@@ -20,5 +20,7 @@
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
 
-#!/bin/bash
-python3 server.py & python -m main.py
+set -e
+export FLASK_APP=flash:create_app
+gunicorn -w 4 -b 0.0.0.0:${PORT:-8080} flash:create_app &
+python3 main.py
