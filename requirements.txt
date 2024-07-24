@@ -4,3 +4,4 @@ heroku3
 flask
 flask_restful
 gunicorn
+python-dotenv
